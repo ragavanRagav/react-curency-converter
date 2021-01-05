@@ -1,0 +1,22 @@
+.App{
+  background-color: antiquewhite;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form{
+  background-color: cadetblue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 10px;
+}
+.spaceBetween{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.subBtn{
+  float: right;
+}
